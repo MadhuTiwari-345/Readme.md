@@ -2,17 +2,15 @@
 
 **B.Tech CSE (AI & ML) | Open-Source Contributor | Full-Stack Developer**
 
-> I build practical, scalable systems at the intersection of **AI, web, and open source** learning fast and shipping often.
+> I build practical, scalable systems at the intersection of **AI, web, and open source** — learning fast and shipping often.
 
 [![GitHub followers](https://img.shields.io/github/followers/MadhuTiwari-345?label=Follow&style=social)](https://github.com/MadhuTiwari-345)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=github_dark)](https://github.com/MadhuTiwari-345)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhuTiwari-345&show_icons=true&theme=github_dark)](https://github.com/MadhuTiwari-345)
 
 <!--LANGUAGE_PIE_CHART_START-->
 <p align="center">
-  <img alt="Languages Pie Chart" src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'Java'%2C'Python'%2C'JavaScript'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C30%2C25%5D%7D%5D%7D%7D" />
+  <img alt="Languages 3D-style Chart" src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Java'%2C'Python'%2C'JavaScript'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C30%2C25%5D%2CbackgroundColor%3A%5B'%236366F1'%2C'%23EF4444'%2C'%2310B981'%5D%2CborderColor%3A'%23ffffff'%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Brotation%3A-0.7%2Ccutout%3A'50%25'%2Cplugins%3A%7Blegend%3A%7Bposition%3A'right'%7D%7D%2Celements%3A%7Barc%3A%7BborderWidth%3A2%7D%7D%7D%7D&width=780&height=360&format=png" />
 </p>
 <!--LANGUAGE_PIE_CHART_END-->
 
