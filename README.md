@@ -5,7 +5,7 @@
 > I build practical, scalable systems at the intersection of **AI, web, and open source** — learning fast and shipping often.
 
 [![GitHub followers](https://img.shields.io/github/followers/MadhuTiwari-345?label=Follow&style=social)](https://github.com/MadhuTiwari-345)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=github_dark)](https://github.com/MadhuTiwari-345)
+             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=github_dark)](https://github.com/MadhuTiwari-345)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhuTiwari-345&show_icons=true&theme=github_dark)](https://github.com/MadhuTiwari-345)
 
 <!--LANGUAGE_PIE_CHART_START-->
