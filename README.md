@@ -6,9 +6,9 @@
 
 Primary Stack: Java | Python | JavaScript
 
-![Java](https://img.shields.io/badge/Java-Expert-red)
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
 ## 👩‍💻 About Me
