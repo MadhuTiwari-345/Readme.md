@@ -7,9 +7,10 @@
 Primary Stack: Java | Python | JavaScript
 
 
-                                                        ![Java](https://img.shields.io/badge/Java-red)
-                                                        ![Python](https://img.shields.io/badge/Python-blue)
-                                                        ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 
                                                  
 
