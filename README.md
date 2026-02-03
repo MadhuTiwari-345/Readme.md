@@ -7,12 +7,14 @@
 Primary Stack: Java | Python | JavaScript
 
 
+
 ![Java](https://img.shields.io/badge/Java-red)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
-                                                 
+
+---                                            
 
 ## 👩‍💻 About Me
 
@@ -23,6 +25,8 @@ I actively contribute to **open source**, collaborate with distributed teams, an
 * 🌱 Learning **scalable system design, testing strategies, and AI agents**
 * 💬 Ask me about **React, Spring Boot, APIs, databases, or OSS workflows**
 * 📍 Based in **New Delhi, India**
+
+---
 
 ## 🛠️ Core Skills
 
@@ -43,6 +47,8 @@ AI Agents · ML basics · Anomaly Detection · Tool-calling Pipelines
 
 **Tools & DevOps**  
 Git · GitHub · Firebase · CI/CD
+
+---
 
 ## 🚀 Featured Projects
 
@@ -82,6 +88,8 @@ Git · GitHub · Firebase · CI/CD
 * Risk scoring, health-aware suggestions
 * 3D Earth climate visualization
 
+---
+
 ## 🌍 Open-Source Experience
 
 * **GirlScript Summer of Code 2025** — Open Source Contributor  
@@ -94,11 +102,15 @@ Git · GitHub · Firebase · CI/CD
 * **Elite Coders Winter of Code 2026** — Contributor  
   UI improvements, onboarding, issue triaging
 
+---
+
 ## 🎓 Learning & Programs
 
 * Google AI Agent Intensive Course + Kaggle Capstone  
 * McKinsey Forward Program (2025)  
 * L’Oréal Brandstorm 2025 — Certificate of Recognition
+
+---
 
 ## 🤝 Let’s Collaborate
 
@@ -110,6 +122,8 @@ I’m open to:
 
 If you’re building something meaningful I’d love to help.
 
+---
+
 ## 📫 Contact
 
 * 📧 Email: **[mt1499961@gmail.com](mailto:mt1499961@gmail.com)**  
@@ -117,8 +131,12 @@ If you’re building something meaningful I’d love to help.
 * 💻 GitHub: [MadhuTiwari-345](https://github.com/MadhuTiwari-345)  
 * 📊 Kaggle: [madhutiwari20](https://www.kaggle.com/code/madhutiwari20/ecosense-climate-sustainability-advisor)
 
+---
+
 ## ⚡ Quick Facts
 
 * 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
 * 🌐 Languages: English, Hindi  
 * 🏀 Interests: Open Source, Hackathons, Basketball
+
+---
