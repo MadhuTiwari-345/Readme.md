@@ -4,7 +4,7 @@
 
 > I build practical, scalable systems at the intersection of **AI, web, and open source** — learning fast and shipping often.
 
-Primary Stack: Java | Python | JavaScript
+Primary Stack: Java | Python | JavaScript 
 
 
 
@@ -102,6 +102,9 @@ Git · GitHub · Firebase · CI/CD
 * **Elite Coders Winter of Code 2026** — Contributor  
   UI improvements, onboarding, issue triaging
 
+* **Open Source Connect Global 2026** — Contributor
+   Issues, Bugs, New Features Implementation
+  
 ---
 
 ## 🎓 Learning & Programs
