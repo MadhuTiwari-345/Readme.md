@@ -165,7 +165,7 @@ If you're building something meaningful, I'd love to contribute.
 - 📧 Email: **[mt1499961@gmail.com](mailto:mt1499961@gmail.com)**  
 - 💼 LinkedIn: [madhu-tiwari](https://www.linkedin.com/in/madhu-tiwari-833ab1326/)  
 - 💻 GitHub: [MadhuTiwari-345](https://github.com/MadhuTiwari-345)  
-- 📊 Kaggle: [madhutiwari20](https://www.kaggle.com/code/madhutiwari20/ecosense-climate-sustainability-advisor)
+- 📊 Kaggle: [madhutiwari20](https://www.kaggle.com/madhutiwari20/)
 
 ---
 
